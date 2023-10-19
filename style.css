@@ -44,9 +44,9 @@
 }
 
 /*-----grid------*/
-.container-grid {
-  height: 100vh;
+.container-grid{
   display: grid;
+  height: 100vh;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 8fr 1fr;
 }
